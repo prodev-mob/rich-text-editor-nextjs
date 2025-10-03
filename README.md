@@ -4,10 +4,7 @@ A powerful, modern rich text editor built with **Slate.js**, **React**, and **Ty
 
 ## Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://prodev-mob.github.io/rich-text-editor-nextjs/demo.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+![Demo](https://prodev-mob.github.io/rich-text-editor-nextjs/demo.gif)
 
 ---
 
