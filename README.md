@@ -2,6 +2,13 @@
 
 A powerful, modern rich text editor built with **Slate.js**, **React**, and **TypeScript**. Features @mentions, rich formatting, emoji picker, and comprehensive text editing capabilities similar to Slack and Discord.
 
+## Demo Video
+
+<video width="640" height="360" controls>
+  <source src="https://prodev-mob.github.io/rich-text-editor-nextjs/demo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Features Included
